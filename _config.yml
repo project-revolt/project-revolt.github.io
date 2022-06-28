@@ -1,0 +1,9 @@
+theme: minima
+title: Project Revolt
+description: To understand is to change, to go beyond oneself. - Sartre
+minima:
+  date_format: "%b %-d, %Y"
+  skin: dark
+header_pages:
+  - about.md
+  - podcast.md
