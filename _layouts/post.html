@@ -18,12 +18,13 @@ layout: default
         </time>
       {%- endif -%}
       {%- if page.author -%}
-        • {% for author in page.author %}
+        • {% for author in page.author %} 
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p>
+      {%- endif -%}
+{%- include reading_time.html content=page.content -%} &nbsp•  {{ reading_time }} </p>
       <div class="tag-list">
         <p class="tag-text">Tags:
           {% for tag in page.tags %} <a href="/posts_by_tag#{{tag}}">{{tag}}</a>
