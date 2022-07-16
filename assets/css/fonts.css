@@ -1,3 +1,23 @@
+/* Create new fonts by adding a @font-face and referring it to the appropriate files in /assets/css/fonts/*/
+
+@font-face {
+    font-family: 'youngserifregular';
+    src: url('/assets/css/fonts/youngserifregular/youngserif-regular-webfont.woff2') format('woff2'),
+         url('/assets/css/fonts/youngserifregular/youngserif-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bluunextbold';
+    src: url('/assets/css/fonts/bluunextbold/bluunext-bold-webfont.woff2') format('woff2'),
+         url('/assets/css/fonts/bluunextbold/bluunext-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Now tell the website to implement the desired font in a particular html element, like .site-title for the main title or h1, h2, h3 for headers. The first font e.g. 'youngserifregular' is the custom font, the second font e.g. 'serif' is a generic font used as a back-up. */
+
 .site-title {
   font-family: 'youngserifregular', serif;
 }
