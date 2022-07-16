@@ -120,7 +120,6 @@ In *Was Greek civilisation based on slave labour?* (1959) and *Between slavery a
 </figure>
 </center>
 
-
 Finley compares the classic Greek city structure with that of Sparta, where chattel slaves were "wholly insignificant." Instead, there was a large servile population known as helots. The helots had several distinguishing features:
 
 - unlike chattel slaves who were 'outsiders,' helots "were not foreigners but a subject people working their own lands in a state of servitude" bound together by ties of "kinship, nationhood . . . and tradition."
