@@ -26,11 +26,11 @@ Dumbass in medical school. Let's disestablish schools. Currently working on "The
 <hr/>
 
 <hr style="border:2px solid gray">
-<img class="img-logo" align="right" src="images/joneslogo.png">
+<img class="img-logo" align="right" src="images/joneslogo.jpg">
 ## jones
 how do i spend my time? when i'm not web developing, i'm playing a video game. most of the time i'm playing video games.
 {: .bio}
 \
 &nbsp;
-- [Twitter](https://twitter.com/jonesindiana55)
+- [Twitter](https://twitter.com/elisejonesxyz)
 <hr/>

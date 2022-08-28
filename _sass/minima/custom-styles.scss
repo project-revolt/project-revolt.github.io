@@ -1,13 +1,14 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 .site-title, .site-title:visited {
+    font-size: xx-large;
 	color: #f05454;
 }
 .site-nav .page-link {
 	color: #f05454;
 }
 body {
-	font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+	font: 400 large/1.5 -apple-system, BlinkMacSystemFont, "Georgia", serif;
     color: #dddddd;
     background-color: #222831;
 }
