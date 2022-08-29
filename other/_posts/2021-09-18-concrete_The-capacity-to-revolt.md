@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: Concrete Camus freedom Finley ancient Greece West
-title: "The Capacity to Revolt: Beginning an Inquiry"
+title: "The capacity to revolt: beginning an inquiry"
 categories: other
 author:
 - Concrete

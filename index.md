@@ -13,6 +13,7 @@ Project Revolt is a collective of writers interested in reflecting critically up
 
 ## Posts by category:
 - [Critiques](/critiques/)
+- [Notes](/notes/)
 - [Literature](/literature/)
 - [Other](/other/)
 
