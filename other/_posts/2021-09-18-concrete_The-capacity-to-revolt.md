@@ -359,4 +359,4 @@ Note: all bold sections in quotes are my emphasis, with the exception of the Fre
 
 ## <span style="color:#f05454">Acknowledgements</span><a name="7"></a>
 
-Thank you to Chance and Posadist for vital feedback that helped sharpen this post and its questions.
+Thank you to Chance and Morbius for vital feedback that helped sharpen this post and its questions.

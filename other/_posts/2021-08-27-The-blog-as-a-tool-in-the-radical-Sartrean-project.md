@@ -3,7 +3,7 @@ layout: post
 title: "The blog as a tool in the radical Sartrean project"
 categories: other
 author:
-- Posadist
+- Morbius
 tags: Sartre, Marcuse, Freire, critical-theory
 ---
 

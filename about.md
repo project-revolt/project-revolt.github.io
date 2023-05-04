@@ -8,11 +8,10 @@ Project Revolt is a collective of writers interested in reflecting critically up
 
 ## Authors
 <hr style="border:2px solid gray">
-<img class="img-logo" align="right" src="images/posadistlogo.PNG">
-## Posadist
-I'm a Mathematics PhD student studying geometric analysis and differential topology. I like to read and write about books in my free time.
+<img class="img-logo" align="right" src="images/morbiuslogo.PNG">
+## Morbius
+I'm a mathematician studying geometric analysis and differential topology. I like to read and write about books in my free time.
 {: .bio}
-- [Twitter](https://twitter.com/cuckfapitalism1)
 <hr/>
 
 <hr style="border:2px solid gray">
