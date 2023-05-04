@@ -3,7 +3,7 @@ layout: post
 title: "Notes on The State and Revolution"
 categories: notes
 author:
-- Posadist
+- Morbius
 - Concrete
 - Jones
 tags: Lenin, Marcuse, Marx, Engels

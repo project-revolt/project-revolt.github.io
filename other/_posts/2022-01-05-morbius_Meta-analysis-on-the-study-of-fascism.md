@@ -1,10 +1,10 @@
 ---
 layout: post
-tags: Posadist Fascism Sartre Marcuse Marx Hegel Paxton Griffin
+tags: Fascism Sartre Marcuse Marx Hegel Paxton Griffin
 title: "Meta-analysis on the study of fascism"
 categories: other
 author:
-- Posadist
+- Morbius
 ---
 
 # Table of contents
